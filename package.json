@@ -2,11 +2,14 @@
   "name": "lazy-grid-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/danielvazquezglobant/LazyLoadingGrid",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,6 +41,7 @@
   "devDependencies": {
     "@testing-library/react": "^16.3.0",
     "@types/jest": "^29.5.14",
+    "gh-pages": "^6.3.0",
     "jest": "^29.7.0",
     "jest-fetch-mock": "^3.0.3",
     "ts-jest": "^29.3.2",
