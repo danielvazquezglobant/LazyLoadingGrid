@@ -2,7 +2,7 @@
   "name": "lazy-grid-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/danielvazquezglobant/LazyLoadingGrid",
+  "homepage": "https://danielvazquezglobant.github.io/LazyLoadingGrid",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
