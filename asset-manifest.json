@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/danielvazquezglobant/LazyLoadingGrid/static/css/main.6701b0e4.css",
+    "main.js": "/danielvazquezglobant/LazyLoadingGrid/static/js/main.0d72244f.js",
+    "index.html": "/danielvazquezglobant/LazyLoadingGrid/index.html",
+    "main.6701b0e4.css.map": "/danielvazquezglobant/LazyLoadingGrid/static/css/main.6701b0e4.css.map",
+    "main.0d72244f.js.map": "/danielvazquezglobant/LazyLoadingGrid/static/js/main.0d72244f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6701b0e4.css",
+    "static/js/main.0d72244f.js"
+  ]
+}
